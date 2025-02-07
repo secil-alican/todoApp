@@ -56,5 +56,5 @@ Join our community of developers creating universal apps.
 
 
 
-![çıktı](images/todoApp1.png)
-![çıktı](images/todoApp2.png)
+![çıktı](assets/images/todoApp1.png)
+![çıktı](assets/images/todoApp2.png)
